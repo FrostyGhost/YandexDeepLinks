@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "298183583824",
+    "firebase_url": "https://test-d5634.firebaseio.com",
+    "project_id": "test-d5634",
+    "storage_bucket": "test-d5634.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298183583824:android:3896619bf4760d24da8955",
+        "android_client_info": {
+          "package_name": "com.fg.yandexdeeplinks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298183583824-1809gva6g1vjtlp5tntv7q45cib6mktc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCtv4C1Ywk9Q3wgECDLLBy3hrN1j-7bp64"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298183583824-1809gva6g1vjtlp5tntv7q45cib6mktc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
