@@ -55,7 +55,9 @@ class MainActivity : AppCompatActivity() {
 
     private fun initMetrika(){
         try {
-            val config = YandexMetricaConfig.newConfigBuilder("a43ac8c5-d5c2-4385-a29a-cfde06e650a1").build()
+            val config = YandexMetricaConfig.newConfigBuilder("a43ac8c5-d5c2-4385-a29a-cfde06e650a1")
+                .withLogs()
+                .build()
             // Initializing the AppMetrica SDK.
             YandexMetrica.activate(applicationContext, config)
             // Automatic tracking of user activity.
